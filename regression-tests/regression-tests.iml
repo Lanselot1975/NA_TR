@@ -9,7 +9,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="page-objects" scope="PROVIDED" />
     <orderEntry type="module" module-name="framework" scope="PROVIDED" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.seleniumhq.selenium:selenium-chrome-driver:3.14.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.seleniumhq.selenium:selenium-api:3.14.0" level="project" />

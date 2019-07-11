@@ -36,6 +36,9 @@ public class BaseTest {
     }
 
     public WebDriver getDriver() {
+
+        driver.manage().window().maximize();
+        driver.get("http://newtours.demoaut.com/");
         return driver;
     }
 }
