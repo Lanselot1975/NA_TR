@@ -14,7 +14,7 @@ public class BaseTest {
     @BeforeSuite
     public void beforeSuite() {
         System.setProperty("headless", "false");
-        System.setProperty("webdriver.chrome.driver","../resources/chromedriver");
+        System.setProperty("webdriver.chrome.driver","/Users/igorgrinberg/IdeaProjects/ATF/resources/chromedriver");
         String headless = System.getProperty("headless");
 
         ChromeDriverManager.chromedriver();

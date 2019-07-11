@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Test-Automation-Framework.iml" filepath="$PROJECT_DIR$/Test-Automation-Framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/domain/domain.iml" filepath="$PROJECT_DIR$/domain/domain.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/framework.iml" filepath="$PROJECT_DIR$/framework/framework.iml" />
-      <module fileurl="file://$PROJECT_DIR$/page-objects/rima-page-objects.iml" filepath="$PROJECT_DIR$/page-objects/rima-page-objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/page-objects/page-objects.iml" filepath="$PROJECT_DIR$/page-objects/page-objects.iml" />
       <module fileurl="file://$PROJECT_DIR$/regression-tests/regression-tests.iml" filepath="$PROJECT_DIR$/regression-tests/regression-tests.iml" />
     </modules>
   </component>
